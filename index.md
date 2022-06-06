@@ -1,6 +1,6 @@
 ---
 layout: home
-title: YCJYY's website
+title: YCJYY's site
 subtitle: This is where I will tell my friends way too much about me
 ---
 # 这个是首页 

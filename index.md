@@ -6,9 +6,9 @@ name: "YCJYY"
 avatar: "man.jpg"
 bio: "主人的益处、观照和算法"
 ---
-# 自性创造者、首先是主人 
+# <center>*逝之挽*
 ---
-![man](/images/man.jpg)
+春江潮水连海平，海上明月共朝生。自性创造者，首先是主人。主人的益处，观照，身份，算法流。存在思维流，什么都没有。
 ---
-# 主人的益处、观照和算法
-## 这里有：  【[vim](/files/vim.md)】  【[git](/files/git.md)】
+### <p align="right">*感之志*
+---
